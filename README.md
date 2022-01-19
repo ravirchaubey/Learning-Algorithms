@@ -3,6 +3,8 @@
 Hello Reader,
 I am Ravi Chaubey [(**Kaggle Masterpiece**)](https://www.kaggle.com/ravichaubey1506) and I am developing this repo to cover almost all the aspects of Machine Learning such as Supervised Learning, Unsupervised Learning, Association rule, and others. Well my primary programming language to do Data Science stuff is Python, But you may find some projects in R language as well, specially in Kaggle Notebook Section.
 
+![Screenshot (68)](https://user-images.githubusercontent.com/42827557/150160547-8218c6af-65fe-412a-8f5b-d45be6acf3f2.png)
+
 >The Structure of project and organization of folders and many problem statements has been directly taken from **Respected Sir Andrew NG's** [Machine Learning Course](https://www.coursera.org/learn/machine-learning) on Coursera. Implementation has been done by solo me, `Apart from Andrew NG's Course`, there are many use cases of Machine Learning has been covered in this repo.
 
 Please feel free to reach out me for any kind of bug you need to resolve at my email [ravichaubey43@gmail.com](mailto:ravichaubey43@gmail.com) or you can directly create a pull request.
@@ -31,7 +33,7 @@ Please feel free to reach out me for any kind of bug you need to resolve at my e
   * [Agglomerative Clustering](https://github.com/ravichaubey/Learning-Algorithms/tree/main/Unsupervised%20Learning/Agglomerative%20Clustering)
   * [Principal Component Analysis](https://github.com/ravichaubey/Learning-Algorithms/tree/main/Unsupervised%20Learning/PCA)
 * Anamoly Detection and Recommender System (Working on it)
-* My Kaggle Notebooks (Merging Kaggle repo here only in few days)
+* [My Kaggle Notebooks](https://www.kaggle.com/ravichaubey1506/code)
   * [Complete Data Visualization Tutorial Seaborn](https://www.kaggle.com/ravichaubey1506/complete-data-visualization-tutorial-seaborn)
   * [Inferential Statistical Analysis on Diabetes Data](https://www.kaggle.com/ravichaubey1506/inferential-statistics-on-diabetes)
   * [Predictive Analysis - KNN,ANN,XGBoost](https://www.kaggle.com/ravichaubey1506/predictive-modelling-knn-ann-xgboost)

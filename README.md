@@ -3,8 +3,6 @@
 Hello Reader,
 I am Ravi Chaubey [(**Kaggle Masterpiece**)](https://www.kaggle.com/ravichaubey1506) and I am developing this repo to cover almost all the aspects of Machine Learning such as Supervised Learning, Unsupervised Learning, Association rule, and others. Well my primary programming language to do Data Science stuff is Python, But you may find some projects in R language as well, specially in Kaggle Notebook Section.
 
-![Screenshot (68)](https://user-images.githubusercontent.com/42827557/150160547-8218c6af-65fe-412a-8f5b-d45be6acf3f2.png)
-
 >The Structure of project and organization of folders and many problem statements has been directly taken from **Respected Sir Andrew NG's** [Machine Learning Course](https://www.coursera.org/learn/machine-learning) on Coursera. Implementation has been done by solo me, `Apart from Andrew NG's Course`, there are many use cases of Machine Learning has been covered in this repo.
 
 Please feel free to reach out me for any kind of bug you need to resolve at my email [ravichaubey43@gmail.com](mailto:ravichaubey43@gmail.com) or you can directly create a pull request.
@@ -19,6 +17,8 @@ Please feel free to reach out me for any kind of bug you need to resolve at my e
 * [Logistic Regression](https://github.com/ravichaubey/Learning-Algorithms/tree/main/Logistic%20Regression)
   * [Non regularized Logistic Regression](https://github.com/ravichaubey/Learning-Algorithms/blob/main/Logistic%20Regression/Logistic%20-%20Non%20Regularised%20%26%20Regularised.ipynb)
   * [Regularized Logistic Regression](https://github.com/ravichaubey/Learning-Algorithms/blob/main/Logistic%20Regression/Logistic%20-%20Non%20Regularised%20%26%20Regularised.ipynb)
+* [Classification Algorithms](https://github.com/ravichaubey/Learning-Algorithms/tree/main/Classification%20Algorithms)
+  * [K nearest neighbor classifier and Data Augmentation](https://github.com/ravichaubey/Learning-Algorithms/tree/main/Classification%20Algorithms/KNN%20Classifier) 
 * [Neural Network](https://github.com/ravichaubey/Learning-Algorithms/tree/main/Neural%20Network)
   * [Multiclass Classification with Neural Network](https://github.com/ravichaubey/Learning-Algorithms/blob/main/Neural%20Network/Multiclass%20Classification%20with%20NN.ipynb)
 * [Advice for Machine Learning](https://github.com/ravichaubey/Learning-Algorithms/tree/main/Advice%20for%20ML)

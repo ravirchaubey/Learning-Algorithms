@@ -1,7 +1,12 @@
-## Learning Algorithms
+## Overview
+* Free Projects to learn Data Science and Machine Learning Algorithms
+* Covers predictive modeling, data manipulation, data exploration, and machine learning algorithms
 
-Hello Reader,
-I am Ravi Chaubey [(**Kaggle Masterpiece**)](https://www.kaggle.com/ravichaubey1506) and I am developing this repo to cover almost all the aspects of Machine Learning such as Supervised Learning, Unsupervised Learning, Association rule, and others. Well my primary programming language to do Data Science stuff is Python, But you may find some projects in R language as well, specially in Kaggle Notebook Section.
+## Introduction
+
+Machine learning is the science of getting computers to act without being explicitly programmed. Python has enough provisions to implement machine learning algorithms in a fast and simple manner. This is a complete project series to learn data science and machine learning using Python. By the end of this hands-on, you will have a good exposure to building predictive models using machine learning on your own.
+
+In this repo, you will learn about the most effective machine learning techniques, and gain practice implementing them and getting them to work for yourself. More importantly, you'll learn about not only the theoretical underpinnings of learning, but also gain the practical know-how needed to quickly and powerfully apply these techniques to new problems.
 
 >The Structure of project and organization of folders and many problem statements has been directly taken from **Respected Sir Andrew NG's** [Machine Learning Course](https://www.coursera.org/learn/machine-learning) on Coursera. Implementation has been done by solo me, `Apart from Andrew NG's Course`, there are many use cases of Machine Learning has been covered in this repo.
 
@@ -9,7 +14,7 @@ Please feel free to reach out me for any kind of bug you need to resolve at my e
 
 >If you want to contribute projects to this repo, please feel free to collaborate.
 
-## Index to Learning Algorithms
+## Table of Contents
 
 * [Linear Regression](https://github.com/ravichaubey/Learning-Algorithms/tree/main/Linear%20Regression)
   * [Univariate Linear Regression](https://github.com/ravichaubey/Learning-Algorithms/blob/main/Linear%20Regression/Linear%20Regression%20with%20One%20Variable.ipynb)

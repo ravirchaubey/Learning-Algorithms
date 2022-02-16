@@ -39,4 +39,5 @@ Please feel free to reach out me for any kind of bug you need to resolve at my e
 * [Classification Algorithms](https://github.com/ravichaubey/Learning-Algorithms/tree/main/Classification%20Algorithms)
   * [K nearest neighbor classifier and Data Augmentation](https://github.com/ravichaubey/Learning-Algorithms/tree/main/Classification%20Algorithms/KNN%20Classifier) 
 * [My Kaggle Notebooks](https://www.kaggle.com/ravichaubey1506/code) (Working on it)
-  * [Complete Data Visualization Tutorial Seaborn](https://www.kaggle.com/ravichaubey1506/v2-complete-data-visualization-with-seaborn)
+  * [Hands-On Complete Data Visualization with Seaborn](https://www.kaggle.com/ravichaubey1506/hands-on-complete-data-visualization-with-seaborn)
+  * [Inferential Statistical Analysis on Diabetes Data](https://www.kaggle.com/ravichaubey1506/inferential-statistical-analysis-on-diabetes-data)
